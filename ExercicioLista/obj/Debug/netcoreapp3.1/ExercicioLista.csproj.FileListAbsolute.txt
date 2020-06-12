@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.exe
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.deps.json
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.dll
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.pdb
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.dll
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.pdb
+C:\Users\aalima5\Desktop\Code C#\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.genruntimeconfig.cache
